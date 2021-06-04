@@ -1,4 +1,3 @@
-# Danny
 <h1 align="center">Hi 👋, I'm Danny</h1>
 <h3 align="center">Newbie programmer</h3>
 
