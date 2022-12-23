@@ -2,7 +2,7 @@
 <h3 align="center">Newbie programmer</h3>
 
 
-- 🌱 I’m currently learning **Laravel,JavaScript,NodeJs**
+- 🌱 I’m currently learning **Python,JavaScript,NodeJs**
 
 - 📫 How to reach me **vfdrs12@gmail.com**
 
