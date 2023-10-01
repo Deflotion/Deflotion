@@ -2,7 +2,7 @@
 <h3 align="center">Intern programmer</h3>
 
 
-- 🌱 I’m currently learning **Python,JavaScript**
+- 🌱 I’m currently learning **Python, JavaScript, R**
 
 - 📫 How to reach me **deflotion@gmail.com**
 
