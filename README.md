@@ -96,10 +96,11 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Deflotion&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deflotion&show_icons=true&count_private=true&theme=nightowl" width="446"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deflotion&layout=compact&count_private=true&theme=nightowl" alt="languages" height="175"/>  
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Deflotion/Deflotion/output/snake.svg" alt="Snake animation" />
 
-###
+<br/>  
