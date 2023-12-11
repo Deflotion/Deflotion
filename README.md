@@ -4,7 +4,9 @@
 
 ###
 
-[![](https://visitcount.itsvg.in/api?id=Deflotion&icon=8&color=9)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Deflotion.Deflotion&"  />
+</div>
 
 ###
 
