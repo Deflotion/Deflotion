@@ -4,10 +4,7 @@
 
 ###
 
-<div align="center">
-  ---
-  [![](https://visitcount.itsvg.in/api?id=Deflotion&icon=8&color=9)](https://visitcount.itsvg.in)
-</div>
+[![](https://visitcount.itsvg.in/api?id=Deflotion&icon=8&color=9)](https://visitcount.itsvg.in)
 
 ###
 
