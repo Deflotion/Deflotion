@@ -22,7 +22,7 @@
 
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dny_rvl) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dnyrval) 
@@ -76,6 +76,13 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Deflotion&theme=merko&hide_border=false)<br/>
 [![Stats](https://github-readme-stats.vercel.app/api?username=Deflotion&hide=stars&show_icons=true&locale=en&hide_rank=true&custom_title=GitHub%20Stats&theme=merko)](https://github-readme-stats.vercel.app) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deflotion&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<details>
+ <summary>Full Stats (click me to toggle 👀)</summary>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deflotion&theme=merko&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+ <p><img src="[https://github-readme-stats.vercel.app/api?username=Deflotion&show_icons=true&theme=merko&hide_border=true&count_private=true&line_height=27](https://github-readme-stats.vercel.app/api?username=Deflotion&hide=stars&show_icons=true&locale=en&hide_rank=true&custom_title=GitHub%20Stats&theme=merko)](https://github-readme-stats.vercel.app)" alt="Github Stats" /></p>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Deflotion&theme=merko" alt="Stat Streak" /></p>
+ <p><img src="https://github-profile-trophy.vercel.app/?username=Deflotion&theme=merko&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+</details>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Deflotion&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
