@@ -74,9 +74,7 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Deflotion&theme=merko&hide_border=false)<br/>
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Deflotion&theme=merko&hide_border=false)<br/>
 [![Stats](https://github-readme-stats.vercel.app/api?username=Deflotion&hide=stars&show_icons=true&locale=en&hide_rank=true&custom_title=GitHub%20Stats&theme=merko)](https://github-readme-stats.vercel.app) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deflotion&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
