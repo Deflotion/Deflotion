@@ -10,12 +10,16 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there 👋, I'm Danny</h1>
 
 ###
 
 # 💫 About Me:
-🔭 I’m a collage student<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Python, R, JavaScript, Flutter, Machine Learning<br>
+🔭 I’m a collage student<br>
+🔭 I’m interest in Machine Learning and AI<br>
+🤝 I’m looking for help with Machine Learning<br>
+🌱 I’m currently learning Python, R, JavaScript, Flutter, Machine Learning<br>
+
 
 
 ## 🌐 Socials:
